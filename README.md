@@ -23,4 +23,6 @@ There are 18 node types and 41 edge types in this subgraph. Categories are up fo
 ## Reproducibility
 Relevant code is available [here](https://github.com/SuLab/Wikidata_Biomedical-Subgraph/blob/main/src/01a-DataUpload.ipynb). All other code available acts as a point of reference that may be applicable downstream or as a means of yielding more efficient output. 
 <br>
+<br>
+<br>
 License CC0
