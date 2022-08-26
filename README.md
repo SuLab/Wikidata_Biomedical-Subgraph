@@ -21,5 +21,6 @@ Raw files from Jan 3rd 2022 .json dump through .csv output can be found within t
 There are 18 node types and 41 edge types in this subgraph. Categories are up for discussion as to whether or not they have retained relevancy for when the subgraph is next utilized.<br>
 
 ## Reproducibility
-
+Relevant code is available [here](https://github.com/SuLab/Wikidata_Biomedical-Subgraph/blob/main/src/01a-DataUpload.ipynb). All other code available acts as a point of reference that may be applicable downstream or as a means of yielding more efficient output. 
+<br>
 License CC0
