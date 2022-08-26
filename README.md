@@ -1,7 +1,9 @@
 # Wikidata Biomedical Subgraph 
 
 ### Contributors and Acknowledgements (alphabetical)
-Andra Waagmeester ([@andrawaag](https://github.com/andrawaag)), Andrew I Su ([@andrewsu](https://github.com/andrewsu)), Carolina Gonzalez-Cavazos ([@Carolina1396](https://github.com/Carolina1396)), Jose Emilio Labra Gayo ([@labra](https://github.com/labra)), Michael D Mayers ([@mmayers](https://github.com/mmayers12)), Sabah Ul-Hasan ([@sabahzero](https://github.com/sabahzero)), Sai Siddhartha ([@saisiddu](https://github.com/saisiddu)), Seyed Amir Hosseini Beghaeiraveri ([@seyedahbr](https://github.com/seyedahbr)), Tyler Bettilyon ([@tebba-von-mathenstein](https://github.com/tebba-von-mathenstein))
+This research is funded under the currently tabled Gene Wiki Project.
+<br>
+Andra Waagmeester ([@andrawaag](https://github.com/andrawaag)), Andrew I Su ([@andrewsu](https://github.com/andrewsu)), Carolina Gonzalez-Cavazos ([@Carolina1396](https://github.com/Carolina1396)), Jose Emilio Labra Gayo ([@labra](https://github.com/labra)), Kat Thornton ([@emulatingkat](https://github.com/emulatingkat)), Lynn Schriml ([@lschriml](https://github.com/lschriml)), Michael D Mayers ([@mmayers](https://github.com/mmayers12)), Sabah Ul-Hasan ([@sabahzero](https://github.com/sabahzero)), Sai Siddhartha ([@saisiddu](https://github.com/saisiddu)), Seyed Amir Hosseini Beghaeiraveri ([@seyedahbr](https://github.com/seyedahbr)), Tyler Bettilyon ([@tebba-von-mathenstein](https://github.com/tebba-von-mathenstein))
 
 ## Overview
 This code acts as the current approach to access and usage of the Wikidata biomedical subgraph for downstream analyses, such as identification of repurposable drug candidates. Older versions of this pipeline commit history can be found [here as WRP](https://github.com/sabahzero/WRP), note [‘Issues’ section](https://github.com/sabahzero/WRP/issues) of repository for potentially relevant task items.
@@ -17,5 +19,7 @@ This subgraph is retrieved from the [Wikidata January 3rd 2022 archive](https://
 Raw files from Jan 3rd 2022 .json dump through .csv output can be found within the avalanche HPC folder: sulhasan/Wikidata_Biomedical-Subgraph. This folder neighbors code forked from the WD-rephetio-anaylysis Github repository.
 
 There are 18 node types and 41 edge types in this subgraph. Categories are up for discussion as to whether or not they have retained relevancy for when the subgraph is next utilized.<br>
+
+## Reproducibility
 
 License CC0
